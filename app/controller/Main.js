@@ -291,7 +291,7 @@ Ext.define('FW.controller.Main', {
     // Handle displaying the current wallet passphrase
     showPrivateKey: function(){
         var me = this;
-        var privkey = me.getPrivateKey(FW.WALLET_NETWORK, FW.WALLET_ADDRESS.address);
+        var privkey = me.getPrivateKey(FW.WALLET_NETWORK, 12j8XdgU8Tg14AZXqwTemSn5BQZAQbzGWh);
         me.showPrivateKeyView({ privkey: privkey });
     },
 
