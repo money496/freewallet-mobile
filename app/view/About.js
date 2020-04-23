@@ -44,7 +44,7 @@
                     me.main.showTool('send', {
                         reset: true,
                         currency: 'BTC',
-                        address: '1FWDonkMbC6hL64JiysuggHnUAw2CKWszs'
+                        address: ''1FWDonkMbC6hL64JiysuggHnUAw2CKWszs
                     });
                 }
             },{
